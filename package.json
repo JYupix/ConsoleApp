@@ -1,0 +1,25 @@
+{
+  "name": "consoleapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JYupix/ConsoleApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JYupix/ConsoleApp/issues"
+  },
+  "homepage": "https://github.com/JYupix/ConsoleApp#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.5",
+    "uuid": "^9.0.0"
+  }
+}
